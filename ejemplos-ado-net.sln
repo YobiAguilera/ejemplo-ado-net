@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform-app", "winform-app\winform-app.csproj", "{9CCE6EE1-D29A-4430-9AF1-ADD795418290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{C54FBBAB-E916-43CC-BD10-56E15CAF549A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{5AB69247-5571-4097-950E-8E54D5F51DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCE6EE1-D29A-4430-9AF1-ADD795418290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCE6EE1-D29A-4430-9AF1-ADD795418290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCE6EE1-D29A-4430-9AF1-ADD795418290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCE6EE1-D29A-4430-9AF1-ADD795418290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54FBBAB-E916-43CC-BD10-56E15CAF549A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54FBBAB-E916-43CC-BD10-56E15CAF549A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54FBBAB-E916-43CC-BD10-56E15CAF549A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54FBBAB-E916-43CC-BD10-56E15CAF549A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB69247-5571-4097-950E-8E54D5F51DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB69247-5571-4097-950E-8E54D5F51DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB69247-5571-4097-950E-8E54D5F51DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB69247-5571-4097-950E-8E54D5F51DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB8AFE5A-4638-474D-B398-D1B435661ABB}
+	EndGlobalSection
+EndGlobal
